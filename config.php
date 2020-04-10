@@ -1,5 +1,5 @@
 <?php
-$rconHost = "localhost";
+$rconHost = "mobcon.mcserver.us";
 $rconPort = 25575;
-$rconPassword = "xtMJsVtmx0XypuId7jIb";
+$rconPassword = "Hubcon@";
 ?>
